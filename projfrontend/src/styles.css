@@ -1,0 +1,20 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  border-color: transparent !important;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+} */
